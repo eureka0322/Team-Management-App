@@ -1,0 +1,23 @@
+{
+  "name": "team-management-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ./main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/eureka0322/Team-Management-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eureka0322/Team-Management-App/issues"
+  },
+  "homepage": "https://github.com/eureka0322/Team-Management-App#readme",
+  "devDependencies": {
+    "electron": "^27.0.0"
+  }
+}
